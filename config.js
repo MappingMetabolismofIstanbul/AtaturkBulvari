@@ -200,7 +200,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/FqYL6Mxh/5.png',
+            image: 'https://i.ibb.co/tTj8sn63/MEF-AAP-027-BAP-PART-II-2025-07-08-07-46-04.png',
             description: '',
             location: {
                 center: [28.95343660827444,41.00877521730774],

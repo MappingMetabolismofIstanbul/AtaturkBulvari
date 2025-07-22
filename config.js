@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Atatürk Bulvarı',
+    title: 'Kentsel Boşluğun Üretimi : Atatürk Bulvarı / Production of Urban Voids : Atatürk Bulvarı',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',

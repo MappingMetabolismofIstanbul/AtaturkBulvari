@@ -16,10 +16,10 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Kentsel Boşluğun Üretimi : Atatürk Bulvarı / Production of Urban Voids : Atatürk Bulvarı',
+    title: 'Kentsel Boşluğun Üretimi : Atatürk Bulvarı / Production of Urban Void : Atatürk Bulvarı',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -146,7 +146,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/84js3Xsb/3.png',
+            image: 'https://i.ibb.co/cKY1J181/3.png',
             description: '',
             location: {
                 center: [28.9533347301684,41.01314924409641],
@@ -173,7 +173,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/21khvDzn/4.png',
+            image: 'https://i.ibb.co/B22TJR8H/4.png',
             description: '',
             location: {
                 center: [28.953301583630473,41.01107846298959],
@@ -203,9 +203,9 @@ var config = {
             image: 'https://i.ibb.co/tTj8sn63/MEF-AAP-027-BAP-PART-II-2025-07-08-07-46-04.png',
             description: '',
             location: {
-                center: [28.95343660827444,41.00877521730774],
-                zoom: 17,
-                pitch: 10,
+                center: [28.94767452605992,41.01352531376432],
+                zoom: 13.5,
+                pitch: 0,
                 bearing: 0,
                 speed: 1,
                 curve: 2
@@ -217,7 +217,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
